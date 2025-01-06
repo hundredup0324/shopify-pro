@@ -1,0 +1,9 @@
+name: Person add
+description: Used to represent adding a customer, or user.
+keywords:
+  - add
+  - user
+authors:
+  - Joe Thomas
+date_added: 2019-03-15
+date_modified: 2024-03-03

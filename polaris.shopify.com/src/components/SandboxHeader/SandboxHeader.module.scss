@@ -1,0 +1,60 @@
+@import '../../styles/variables.scss';
+@import '../../styles/mixins.scss';
+
+.Header {
+  position: sticky;
+  display: flex;
+  padding: 1.25rem 1.5rem;
+  top: 0;
+  z-index: 2;
+  justify-content: space-between;
+  height: var(--header-height);
+}
+
+.Buttons {
+  display: flex;
+  gap: 1.5rem;
+
+  button,
+  a {
+    display: flex;
+    align-items: center;
+    gap: 0.25rem;
+    background: transparent;
+    font-size: var(--font-size-300);
+    text-align: center;
+    color: var(--text);
+
+    &:hover {
+      color: var(--text-strong);
+    }
+  }
+}
+
+.Logo {
+  display: flex;
+  align-items: center;
+  color: inherit;
+  gap: 0.5rem;
+  margin-left: 0.25rem;
+  font-weight: var(--font-weight-500);
+  font-size: var(--font-size-200);
+  color: var(--text-strong);
+  margin-right: auto;
+
+  img {
+    opacity: 0.8;
+  }
+
+  p {
+    margin: 0;
+  }
+
+  span {
+    transform: translate3d(0, -1px, 0);
+  }
+
+  @media screen and (max-width: $breakpointMobile) {
+    display: none;
+  }
+}

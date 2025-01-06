@@ -1,0 +1,13 @@
+.Container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  padding-left: 32px;
+  padding-right: 32px;
+  background-color: var(--p-color-bg);
+}
+
+.Example {
+  width: 100%;
+}

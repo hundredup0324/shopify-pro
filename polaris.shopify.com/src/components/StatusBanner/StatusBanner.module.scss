@@ -1,0 +1,36 @@
+@import '../../styles/fonts.scss';
+
+.StatusBanner {
+  padding: 1.5rem;
+  background: var(--surface-subdued);
+  border-radius: var(--border-radius-400);
+
+  &[data-value='alpha'] {
+    background: var(--surface-attention);
+  }
+
+  &[data-value='warning'],
+  &[data-value='deprecated'],
+  &[data-value='legacy'] {
+    background: var(--surface-warning);
+  }
+
+  &[data-value='beta'],
+  &[data-value='information'],
+  &[data-value='new'] {
+    background: var(--surface-information);
+  }
+
+  h2 {
+    margin-top: 0;
+    @include heading-3;
+
+    & + p {
+      margin-top: 0;
+    }
+  }
+
+  p {
+    margin-bottom: 0;
+  }
+}

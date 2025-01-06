@@ -1,0 +1,11 @@
+name: Collection featured
+description: Used to represent a featured or favorite collection.
+keywords:
+  - collection
+  - favorite
+  - favourite
+  - featured
+authors:
+  - Joe Thomas
+date_added: 2019-02-25
+date_modified: 2024-03-03

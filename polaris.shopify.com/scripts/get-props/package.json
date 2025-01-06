@@ -1,0 +1,12 @@
+{
+  "name": "polaris.shopify.com-get-props",
+  "private": "true",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^28.1.3",
+    "@types/jest": "^28.1.7",
+    "@babel/preset-typescript": "^7.26.0"
+  }
+}
