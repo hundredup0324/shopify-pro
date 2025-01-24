@@ -27,5 +27,33 @@ https://smartifyerp.com/
 
 jbryanlouis18@gmail.com
 jamestaylor.louis@gmail.com
+jamestaylor.louis@gmail.com
 
+
+
+""  
+Analyze the content of the proposal  for the above problem requested by the customer.
+Please make the sentence so that it looks like it was created by a person, not by AI.
+Please create it in the format of the following example bid template.
+for example:"Hi ,
+I carefully reviewed your requirement and profile, and I have a strong desire to work with you on this project. I bring extensive experience in developing DEX platforms, integrating oracles, and building trading bots, including Telegram and CLI-based bots.
+I've developed multiple trading bots(Sniping, Volume, Market-Making Bots) for various DEX platforms, such as Uniswap, PanckageSwap, Raydium and Serum.
+I hve integrated price oracles like Pyth Network and Chainlink to provide reliable, real-time market data, ensuring the bots have accurate information for executing trades.
+My experience includes writing smart contracts for minting tokens, executing trades, and handling flash loans on Ethereuem, Solana and other blockchains.
+
+The one example of projects I have built is Telegram Bundle Bot for Solana tokens.
+Using the Telegraf library and Telegram's API, I developed a system that notifies users of market opportunities, executes trades directly from Telegram, and tracks portfolio performance.
+- Token Sniping: Created a bot capable of sniping tokens to influence market prices by detecting dips and spikes.
+- Automated Buying/Selling: Implemented functions for minting tokens, creating liquidity pools in Raydium, and executing buy/sell orders.
+- Integration with Jito and Fastest RPC: For real-time market analysis and execution optimization, increasing trade efficiency.
+Key Technologies: Typescript, Telegraf, Solana Web3, Raydium SDK, Jito(Jito is currently down).
+
+In addition to trading bot development, I have built swap functionality for decentralized exchanges using the Automated Market Maker (AMM) model and order book-based systems. My swap development experience covers Smart Contract Development, Liquidity Pool Mangement, Price Oracles, Frontend Integration.
+https://bsc.luchowswap.com/swap - This is swap platform I built
+
+With a strong background in DEX platform development, trading bots, and swap contract development, I’m confident that my skills can contribute significantly to your project.
+I’m eager to discuss how I can help build out the swap functionality and extend the trading bot capabilities further.
+Looking forward to the opportunity to collaborate!
+
+Best regards,"
 
