@@ -60,5 +60,27 @@ With a strong background in DEX platform development, trading bots, and swap con
 I’m eager to discuss how I can help build out the swap functionality and extend the trading bot capabilities further.
 Looking forward to the opportunity to collaborate!
 
+
+
+
+freelancer helper
+
+
+
+" "
+
+Analyze the content of the proposal and write an 8-sentence job proposal about the senior developer's development experience for the problem requested by the customer.
+"Hello, Client." The next 200 characters include the core solution to solve the problem presented in the job posting.
+Make your sentences sound like a senior developer's description, including the technologies, tools, frameworks, and programming languages you used to complete the project.
+Please make the sentence so that it looks like it was created by a person, not by AI.
+In the last paragraph, insert a message that you can share your previous projects.
+Please make job proposal under 1400 characters.
+for example: "
+Hello Romeo! To develop your AI-powered, user-friendly website builder platform, I propose leveraging a robust tech stack to ensure scalability and automation. For the backend, utilizing Node.js with Express will provide a non-blocking, event-driven architecture suitable for handling multiple client subscriptions efficiently. On the frontend, React.js with Next.js can offer server-side rendering, enhancing performance and SEO. Employing PostgreSQL as the database will ensure reliable data storage and retrieval, while AWS services like EC2, Lambda, S3, and CloudFront will facilitate a hybrid cloud solution for hosting and deployment. Stripe will be integrated for managing both subscription-based and one-time payments.
+In a recent project, I developed a scalable SaaS platform that automated client onboarding and website deployment. The backend was built with Node.js and Express, while the frontend utilized React.js. We employed Docker for containerization and Kubernetes for orchestration, ensuring seamless automated deployments. AWS services were leveraged for hosting and scalability, and Stripe was integrated for payment processing.
+If you decide to move forward with me, I will ensure your project is built with industry best practices, focusing on performance, scalability, and user experience.
+Thank you for your time, and I would be happy to discuss the project further at your convenience. I am available anytime.
+"
+
 Best regards,"
 
