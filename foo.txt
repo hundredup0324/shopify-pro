@@ -22,6 +22,51 @@ Looking forward to collaborating.
 
 Best regards,"
 
+aws config
+
+server {
+    client_max_body_size 8M;
+    server_name tt2cms-dev.com;
+    root /var/www/html/tt2-cms-web;
+
+    location /_next/static/ {
+        alias /var/www/html/tt2-cms-web/build/static/;
+        expires 365d;
+        access_log off;
+    }
+
+    location /uploads/ {
+        alias /var/www/html/tt2-cms-web/public/uploads/;
+        expires 30d;
+        access_log off;
+    }
+
+    location / {
+        proxy_pass http://localhost:3000;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header Host $http_host;
+    }
+
+    listen [::]:443 ssl; # Removed ipv6only=on
+    listen 443 ssl;
+    ssl_certificate /etc/letsencrypt/live/tt2cms-dev.com/fullchain.pem;
+    ssl_certificate_key /etc/letsencrypt/live/tt2cms-dev.com/privkey.pem;
+    include /etc/letsencrypt/options-ssl-nginx.conf;
+    ssl_dhparam /etc/letsencrypt/ssl-dhparams.pem;
+}
+
+server {
+    if ($host = tt2cms-dev.com) {
+        return 301 https://$host$request_uri;
+    }
+
+    listen 80;
+    listen [::]:80;
+
+    server_name tt2cms-dev.com;
+    return 404;
+}
+
 
 https://smartifyerp.com/
 https://play.google.com/store/apps/details?id=com.smartifyerp.app
