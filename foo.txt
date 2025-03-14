@@ -132,3 +132,209 @@ Thank you for your time, and I would be happy to discuss the project further at 
 
 Best regards,"
 
+
+
+
+
+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
+
+AWS Login Vevisto: 
+Email: inquiry@vevisto.com
+Password: ineUQX7mownC32HJ7n
+
+1958182189
+
+Developer login:
+AWS IAM Username: developer
+AWS Sign-in URL: https://337909782154.signin.aws.amazon.com/console
+Access Key ID: AKIAU5LH6C2FHPB2DTMD
+Secret Key: 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
+password:UhATMJRdZMJpzwCj2V
+
+https://www.figma.com/design/G0OlaYIwBRBi2eJPhoT18A/03.13.25-Vevisto?node-id=35-6964&p=f&t=7TB7WoymKKJnAoS2-0
+
+
+https://www.figma.com/design/9xzXLSfQDOEx6B7NDRJ8Rl/2025-03-05-New-Vevisto-Build-Your-Website-(Send)?node-id=35-6964&m=dev&t=9lKOm9viVJVv86yo-1
+
+chmod 400 ~/.ssh/vevisto-key.pem
+ssh -i ~/.ssh/vevisto-key.pem ubuntu@51.21.199.237
+pm2 start npm --name "nextjs-app" -- start
+
+sudo systemctl start nginx
+
+sudo nano /etc/nginx/sites-available/default
+sudo nginx -t
+
+how to host next.js build version by using pm2
+
+Please adjust the responsiveness
+
+chmod 400 ~/.ssh/vevisto-key.pem
+ssh -i ~/.ssh/vevisto-key.pem ubuntu@51.21.199.237
+Developer login:
+AWS IAM Username: developer
+AWS Sign-in URL: https://337909782154.signin.aws.amazon.com/console
+Access Key ID: AKIAU5LH6C2FHPB2DTMD
+Secret Key: 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
+
+IP:103.14.26.70
+phone:+525646008567
++528331123740
+@C_G_0110
+
+Password:Aeterna_01
+1311279113
+1958182189
+manu_bum_96@outlook.com
+Gmail: manubum_001@gmail.com password: Aeterna_01
+
+sales@vevisto.com
++46 72 010 99 98
+/var/www/html
+trc20: TXoBcKfX8gGXRr9bXpLkLD6RqHnEC7fj3H
+bep20: 0xb9213110376eBe394cA66537ed3B3fdB4C23A61E
+
+upwork: manu_bum_96@outlook.com password: AeternaV_01
+mail: manu_bum_96@outlook.com password: AeternaV_01
+Gmail: manubum_001@gmail.com password: AeternaV_01
+Teh password Is, Aeterna_01
+
+
+1511448883
+1958182189
+
+http://51.21.199.237/
+
+net start vevisto
+star@123
+103.14.26.70
+Aeterna_01
+@M4ANU01
+https://www.chatkk.com/
+https://playerpuff.com/
+https://dart-tutorial.com/collections/set-in-dart/
+nest generate module user
+nest generate service user
+nest generate resolver user
+psql -U postgres
+psql -U postgres -h localhost -d postgres
++46720109998 SUNDIN, Romeo
+psql -U postgres
+npx prisma init
+npx prisma migrate dev --name init
+https://github.com/0xp3p3/numary-sdk
+npm install @apollo/gateway --legacy-peer-deps
+=========tg=======
+D Shekomba
+https://docs.google.com/spreadsheets/d/1Kj-HPIsrk5O1acU6sin07-y4VwwveO76r5K4iZRsOKk/edit?gid=1894816308#gid=1894816308
+5659
+@Orlandolewis001
+1511448883
+syedsaqib7457
+Please provide a solution to implement the contents presented in the proposal.
+Please provide examples of similar website.
+emma.caporali@gmail.com
+martinbennet0324@outlook.com
+correct Native American English
+live:.cid.1326aae6edb7e6ca
+344495
+30 websites using 
+vadodara
+@magnussolution
+10953code:21167
+num:+19169020864
+natematty
++18456829054
+Francky emily nelson Gabriel
+index.php/authentication/login
+https://shaker.umh.es/jqwidgets-v3.8.0/
+https://github.com/mobiledev0702
+https://www.linkedin.com/in/jos-hand/
+-----------------AD-----------------------
+638570942
+123123qwe
+https://smartifyerp.com/apidocsgenerator/api-docs#login
+0389A60C-1F41-4E2C-927A-62B5A094B715/20250131154251
+386784829
+
+https://plaxweb.com-------------------------------------------
+'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'
+
+Yoichi kojima
+https://fluttergems.dev/
+https://m2.material.io/
+
+https://api.flutter.dev/flutter/material/
+Anydesk:1713662625
+Password: 345ertdfg#$%ERTDFG
+15023901957
+14384552222
+https://github.com/abdulawalarif
+convert American Native English 
+jbryanlouis18@gmail.com / Pass1234
+usertest@groupesmartify.ca
+5853260005
+usertest@groupesmartify.ca
+william asian chile
+gagnethomas079@gmail.com
+thomthom122
+
+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
+66918257094
++37369482764
+loyaldev0322
+https://smartifyerp.com/
+https://trcnfx.com/
+
+https://github.com/BloodyGDev?tab=repositories
+https://bloody-portfolio.vercel.app/
+
+keytool -list -v -keystore C:/key/release-key.jks -alias my-new-key-alias
+
+keytool -genkey -v -keystore C:/key/release-key.jks -keyalg RSA -keysize 2048 -validity 10000 -alias my-new-key-alias
+Thslqkdldh0702!@#
+
+keytool -genkeypair -v -keystore C:/key/release-key.jks -keyalg RSA -keysize 2048 -validity 10000 -alias my-new-key-alias
+
+keytool -export -rfc -alias joshua -file  upload_certificate.pem -keystore C:/key/release-key.jks
+git init
+git add README.md
+git add .
+git commit -m "first commit"
+git branch -M mustang4
+git remote add origin 
+git@github.com:jtaylor007/SmartifyMobileApp.git
+git push -u origin mustang4
+
+git remote set-url origin git@github.com:hundredup1124/next-js-project.git
+
+
+git remote add origin git@github.com:jtaylor007/SmartifyMobileApp.git
+git branch -M main
+git push -u origin main
+git commit -m "Added new feature
+
+
+Co-authored-by: Teammate Name <thundredup0324@outlook.com>"
+
+=======git Summary of Key Steps===
+Abort the rebase: git rebase --abort
+Fetch remote changes: git fetch origin
+Check for issues with untracked files: git status
+Reset your local branch: git reset --hard origin/main
+Force-push if necessary: git push origin main --force
+Check for lock files: Delete .lock files if found.
+==========================
+
+SHA256:t8C4VMb6aHoeqzmTEyqFIjCcwDlLkkXZD047KUnmmpI
+https://portfolio-dfa76.firebaseapp.com/
+https://www.lamborghiniporrentruy.ch/
+
+
+https://docs.google.com/document/d/18zjh0adwdcJzaqVqiSCUtcHHb3rVSzvu9Qf_abR-XXY/edit?tab=t.0
+
+is Native American English ? 
+
+A example talking the experience in 7 sentences to
+
+
